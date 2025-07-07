@@ -1,0 +1,18 @@
+# Archivos de salida de MASM
+*.exe
+*.obj
+*.lst
+*.map
+*.pdb
+*.ilk
+*.tmp
+*.bak
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Otros temporales comunes
+*.log
+Thumbs.db
+ehthumbs.db
+.DS_Store
