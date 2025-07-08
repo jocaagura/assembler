@@ -1,7 +1,8 @@
 # 🧮 Operaciones Aritméticas en Ensamblador (TASM/MASM)
 
 > 🎬 Mira la explicación completa del proyecto en YouTube:  
->[Video explicativo](https://img.youtube.com/vi/ksWcSi-PmV0/0.jpg)
+> [![Video explicativo](https://img.youtube.com/vi/ksWcSi-PmV0/0.jpg)](https://www.youtube.com/watch?v=ksWcSi-PmV0)
+
 
 
 Este proyecto contiene una serie de programas en lenguaje ensamblador que permiten realizar operaciones aritméticas básicas entre dos dígitos introducidos por el usuario. Cada operación se ejecuta en un entorno compatible con DOS utilizando herramientas como **TASM/MASM** y **jsDOS** para facilitar pruebas rápidas desde Visual Studio Code.
